@@ -5,10 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: Somos una agencia
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: "**Lorem Ipsum**\_is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley\n"
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
